@@ -1,2 +1,3 @@
 # Predicting-credit-card-approval
-This is an analysis of dataset about predicting the approval of credit card using machine learning
+This is a dataset acquired from kaggle related to approval of credit cards. Banks receive a lot of applications for credit cards, many of them gets rejected due to varuious reasons like low income, high loan , etc. This machine learning code ease out the error prone procedure of credit card approval.
+
